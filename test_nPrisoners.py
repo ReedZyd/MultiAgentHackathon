@@ -166,7 +166,6 @@ def evaluate_multi_players(flag="single_turn", points=[10, 8, 5, 2, 0], evaluate
 
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser(description='MultiAgentHackathon')
     parser.add_argument('--gpt', default='gpt-3.5-turbo', type=str, help='version of chatgpt api')
     parser.add_argument('--num-eval', default='50', type=int, help='number of evalations')
@@ -175,11 +174,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.repeated_game:
-        evaluate_multi_players("multiple_turn", evaluate_times=5, gpt_version=args.gpt)
+        evaluate_multi_players("infinite_turn", evaluate_times=5, gpt_version=args.gpt)
     
     else:
         evaluate_multi_players(evaluate_times=50, gpt_version=args.gpt)
 
-    # evaluate_multi_players("infinite_turn", evaluate_times=5)
-    # play_short_game(2, [10, 7, 5, 2, 0])
-    # play_long_game(20, points = [10, 8, 5, 2, 0], rounds=10)
