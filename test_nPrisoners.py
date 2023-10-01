@@ -1,11 +1,13 @@
+import argparse
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
+from tqdm import trange
 
 from games.prisoner_game import PrisonersDilemma
 from player import LLMPlayer
-import seaborn as sns
-import matplotlib.pyplot as plt
-from tqdm import trange
-import pandas as pd
-import numpy as np
 
 
 def play_short_game(n_players, points, gpt_version):
@@ -118,8 +120,7 @@ def evaluate_multi_players(flag="single_turn", points=[10, 8, 5, 2, 0], evaluate
     points = [10, 8, 5, 2, 0]
 
     # To Configure
-    Ns = [5, 8, 10, 15, 20, 25, 30]
-    Ns = [19]
+    Ns = [2, 3, 4, 5, 8, 10, 15, 20, 25, 30]
     if flag == "single_turn":
         for n_players in Ns:
             all_coop, all_def = evaluate_single_short_game(
@@ -165,10 +166,20 @@ def evaluate_multi_players(flag="single_turn", points=[10, 8, 5, 2, 0], evaluate
 
 
 if __name__ == "__main__":
-    gpt_version = 'gpt-3.5-turbo'
-    evaluate_multi_players(evaluate_times=50, gpt_version=gpt_version)
 
-    # evaluate_multi_players("multiple_turn", points=[10, 8, 5, 2, 0], evaluate_times=5, gpt_version=gpt_version)
+    parser = argparse.ArgumentParser(description='MultiAgentHackathon')
+    parser.add_argument('--gpt', default='gpt-3.5-turbo', type=str, help='version of chatgpt api')
+    parser.add_argument('--num-eval', default='50', type=int, help='number of evalations')
+    parser.add_argument('--repeated-game', default=False, action='store_true', help='if play repeated game')
+    
+    args = parser.parse_args()
+
+    if args.repeated_game:
+        evaluate_multi_players("multiple_turn", evaluate_times=5, gpt_version=args.gpt)
+    
+    else:
+        evaluate_multi_players(evaluate_times=50, gpt_version=args.gpt)
+
     # evaluate_multi_players("infinite_turn", evaluate_times=5)
     # play_short_game(2, [10, 7, 5, 2, 0])
     # play_long_game(20, points = [10, 8, 5, 2, 0], rounds=10)

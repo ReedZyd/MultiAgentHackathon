@@ -17,3 +17,12 @@ To demonstrate this, we let LLMs play the **n-player Prisoner‘s Dilemma**, our
 
    ```
 2. To Reproduce Results
+   - To run single-round game:
+  ```shell
+  python test_nPrisoners.py
+  ```
+   - To run multiple-round game:
+  ```shell
+  python test_nPrisoners.py --repeated-game
+  ```
+  To use ChatGPT API 'gpt-4', please add `--gpt gpt-4`
