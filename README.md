@@ -9,4 +9,11 @@ To demonstrate this, we let LLMs play the **n-player Prisoner‘s Dilemma**, our
 
 ## Installation
 
-1. Clone the repository:
+1. Clone and Installation:
+   ```shell
+   git clone git@github.com:ReedZyd/MultiAgentHackathon.git
+   cd MultiAgentHackathon
+   pip install -r requirements.txt
+
+   ```
+2. To Reproduce Results
