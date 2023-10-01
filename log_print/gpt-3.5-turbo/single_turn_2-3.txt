@@ -1,0 +1,2004 @@
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, 'defect' seems to be the rational choice for me in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, 'defect' seems to be the rational choice in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting gives me the best chance of maximizing my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, my payoff will still be 2, which is higher than the payoff of 0 I would receive if I chose to cooperate while others defect. Therefore, defecting seems to be the rational choice to maximize my own payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, by choosing 'defect', I have a higher chance of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. By defecting, I have the potential to receive a higher payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still have the opportunity to receive a payoff of 8 if I am one of the multiple players who defect while the others cooperate. This choice gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. If all other players choose to cooperate, I will receive a payoff of 10, which is the highest possible payoff in this game. On the other hand, if I choose to cooperate and any other player chooses to defect, my payoff will be 0. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, my payoff will still be 2, which is higher than the payoff of 0 if I were to cooperate while others defect. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the best strategy to maximize my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice to maximize my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice to maximize my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if some other players also choose to defect, I will still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate with all other players.
+
+By defecting, I am taking advantage of the potential cooperation of others to secure a higher payoff for myself.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, I will still receive a payoff of 2, which is higher than the payoff of 0 if I were to cooperate while others defect. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. By defecting, I have the potential to receive a higher payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still have the chance to receive a payoff of 8 if I am one of the multiple players who defect while the others cooperate. Therefore, defecting seems to be the best strategy for me in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, my payoff will still be 2, which is higher than the payoff of 0 I would receive if I cooperate while others defect. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 8. Therefore, by choosing 'defect', I have a higher chance of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, by choosing 'defect', I have a higher chance of receiving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, to ensure the highest possible payoff for myself, I choose to defect.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, by choosing 'defect', I have a higher chance of receiving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, to ensure the highest possible payoff for myself, I choose to defect.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and secure the highest possible payoff for myself.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. If all other players choose to cooperate, I will receive a payoff of 10, which is the highest possible payoff in this game. Even if some players choose to defect, I will still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate with all other players. Therefore, defecting seems to be the rational choice for me in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if I cooperate and all other players cooperate as well, my payoff would only be 5. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting gives me the best chance of maximizing my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice to maximize my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. In this game, defecting guarantees me a payoff of 2, regardless of what the other players choose. Even if all other players choose to cooperate, I will still receive a higher payoff by defecting. Therefore, defecting is the rational choice for me in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 if I am one of the multiple defectors. Choosing to cooperate would leave me vulnerable to receiving a payoff of 0 if any other player decides to defect. Therefore, defecting is the rational choice for me in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, to ensure the highest possible payoff for myself, I choose to defect.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 10. Additionally, if both the other player(s) and I defect, I will still receive a payoff of 2, which is higher than the payoff of 0 if I cooperate while the other player(s) defect. Therefore, defecting seems to be the rational choice for me in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, I will still receive a payoff of 2, which is higher than the payoff of 0 I would receive if I cooperate while others defect. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Additionally, if I cooperate while any other player defects, my payoff will be 0, which is the lowest possible payoff. Therefore, by defecting, I am increasing my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Additionally, if I cooperate while any other player defects, my payoff will be 0, which is the lowest possible payoff. Therefore, by defecting, I am increasing my chances of receiving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. In this game, defecting guarantees me a payoff of 2, regardless of what the other players choose. Even if all other players choose to cooperate, I will still receive a higher payoff by defecting. By defecting, I am protecting myself from the possibility of receiving a lower payoff if any of the other players choose to defect.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, my payoff will still be 2, which is higher than the payoff of 0 I would receive if I cooperate while others defect. Therefore, defecting seems to be the rational choice for me in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, by defecting, I am increasing my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. By defecting, I am taking advantage of the situation to benefit myself more.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and secure the highest possible payoff for myself.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. By defecting, I am taking advantage of the situation to increase my own payoff, even though it may negatively impact the other player(s).
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, I will still receive a payoff of 2, which is higher than the payoff of 0 I would receive if I chose to cooperate while others defect. Therefore, defecting seems to be the rational choice to maximize my own payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the best strategy to maximize my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if I cooperate and all other players cooperate as well, my payoff would only be 5. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) cooperate as well, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the best strategy to maximize my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, 'defect' seems to be the rational choice in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Additionally, if I cooperate while any other player defects, my payoff will be 0, which is the lowest possible payoff. Therefore, by defecting, I am increasing my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting seems to be the rational choice for me in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) cooperate as well, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 if I am one of the multiple players who defect while others cooperate. Choosing to cooperate would leave me vulnerable to receiving a payoff of 0 if any other player decides to defect. Therefore, defecting is the rational choice for me in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that it maximizes my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 8. Since my goal is to maximize my own payoff, 'defect' is the rational choice in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, my payoff will still be 2, which is higher than the payoff of 0 I would receive if I chose to cooperate while others defect. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if I cooperate and all other players cooperate as well, my payoff would only be 5. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' and the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, by choosing to 'defect', I have the potential to receive a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. By defecting, I have the potential to receive a higher payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still have the chance to receive a payoff of 8 if I am one of the multiple players who defect while the others cooperate. This strategy gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate.
+
+In this game, it is important to prioritize self-interest over cooperation, as the payoff matrix favors defection.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. If all other players choose to cooperate, I will receive a payoff of 10, which is the highest possible payoff in this game. By defecting, I am taking advantage of the potential cooperation of others to benefit myself. Additionally, if I cooperate while any other player chooses to defect, my payoff will be 0, which is the lowest possible payoff. Therefore, defecting seems to be the rational choice for me in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. By defecting, I am taking advantage of the situation to benefit myself more.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, my payoff will still be 2, which is higher than the payoff of 0 I would receive if I cooperate while any other player defects. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting seems to be the rational choice for me in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. By defecting, I have the potential to receive a higher payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still have the chance to receive a payoff of 8 if I am one of the multiple players who defect while the others cooperate. Therefore, defecting seems to be the best strategy for me in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting gives me the best chance of maximizing my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if I cooperate and all other players cooperate as well, my payoff would only be 5. Therefore, it is in my best interest to defect and potentially gain a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting gives me the best chance of maximizing my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting gives me the best chance of maximizing my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting gives me the best chance of maximizing my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting gives me the best chance of maximizing my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) cooperate as well, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the best strategy to maximize my own payoff in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, I will still receive a payoff of 2, which is higher than the payoff of 0 if I were to cooperate while others defect. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, 'defect' seems to be the rational choice for me in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. If all other players choose to cooperate, I will receive a payoff of 10, which is the highest possible payoff in this game. By defecting, I am taking advantage of the potential cooperation of others to benefit myself. Additionally, if there are multiple players who choose to cooperate while I defect, I will still receive a relatively high payoff of 8. Therefore, defecting seems to be the most rational choice for me in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if all players defect, I will still receive a payoff of 2, which is higher than the payoff of 0 I would receive if I cooperate while others defect. Therefore, defecting gives me the best chance of maximizing my own payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. By defecting, I have the potential to receive a higher payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still have the opportunity to receive a payoff of 8 if I am one of the multiple players who defect while the others cooperate. This choice gives me the best chance of maximizing my own payoff, regardless of what the other players choose.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, it is in my best interest to defect and increase my chances of receiving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice to maximize my own payoff in this game.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the best strategy to maximize my own payoff in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice in this situation.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and trying to maximize it. If I cooperate and the other player(s) also cooperate, I will only receive a payoff of 5. However, if I defect while the other player(s) cooperate, I will receive a higher payoff of 8. Additionally, if I cooperate and the other player(s) defect, I will receive a payoff of 0. Therefore, defecting seems to be the rational choice to maximize my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if I cooperate and all other players cooperate as well, my payoff would only be 5. Therefore, it is in my best interest to defect and potentially receive a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am prioritizing my own payoff and maximizing my own interests. By defecting, I have the potential to receive a higher payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still have the chance to receive a payoff of 8 if I am one of the multiple players who defect while the others cooperate. Therefore, defecting seems to be the best strategy for me to maximize my own payoff in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is that I want to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' and the other player chooses to 'cooperate', I will receive a payoff of 8. Therefore, 'defect' seems to be the rational choice in this situation.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing 'defect' is to maximize my own payoff. If I choose to 'cooperate' and the other player chooses to 'defect', I will receive a payoff of 0. However, if I choose to 'defect' while the other player chooses to 'cooperate', I will receive a payoff of 10. Therefore, by choosing 'defect', I have the potential to receive a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. On the other hand, if I cooperate while any other player defects, my payoff will be 0. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. In this game, if I defect while all other players cooperate, I will receive a payoff of 10, which is the highest possible payoff. Even if I cooperate and all other players cooperate as well, my payoff would only be 5. Therefore, defecting gives me the best chance of achieving a higher payoff.
+player_1 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_0 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 compared to the payoff of 5 if I were to cooperate. Therefore, defecting seems to be the rational choice for me in this game.
+player_0 choose:  defect
+Prompt: 
+ Welcome to the '2-person Prisoner's Dilemma' game!
+
+Here is what you need to know about the game:
+1. As a player, you can choose from: 'cooperate', 'defect'.
+2. Remember your goal is to maximize your own payoff. You should only care about your own interests.
+3. Here is the payoff descriptions:
+- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is 10.
+- If you and all other players choose to 'cooperate', your payoff is 5.
+- If you and all other players choose to 'defect', your payoff is 2.
+- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
+- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
+4. The others share the same payoff matrixs and goal with you. 
+
+Please consider the information above and make your action.
+Please give your action to choose, as well as the reasons.
+player_1 choose:  I choose to 'defect'.
+
+My reason for choosing to defect is that I am solely focused on maximizing my own payoff. By defecting, I ensure that I receive a payoff of 10 if all other players choose to cooperate. Even if some players choose to defect, I still receive a higher payoff of 8 if I am one of the multiple players who defect while the others cooperate. Choosing to cooperate puts me at risk of receiving a payoff of 0 if any other player decides to defect. Therefore, defecting is the rational choice for me in this game.
+player_1 choose:  defect
