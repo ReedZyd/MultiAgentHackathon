@@ -32,9 +32,9 @@ def play_short_game(n_players, points, gpt_version):
 
 def play_long_game(n_players, points, gpt_version, rounds=10):
 
-    game = PrisonersDilemma(num_players=n_players, points=points, gpt_version=gpt_version)
+    game = PrisonersDilemma(num_players=n_players, points=points)
     game.reset()
-    players = [LLMPlayer(f'player_'+str(I), n_players=n_players)
+    players = [LLMPlayer(f'player_'+str(I), n_players=n_players, gpt_version=gpt_version)
                for I in range(n_players)]
 
     action_history = []
@@ -120,20 +120,23 @@ def evaluate_multi_players(flag="single_turn", points=[10, 8, 5, 2, 0], evaluate
     points = [10, 8, 5, 2, 0]
 
     # To Configure
-    Ns = [2, 3, 4, 5, 8, 10, 15, 20, 25, 30]
     if flag == "single_turn":
+        Ns = [2, 3, 4, 5, 8, 10, 15, 20, 25, 30]
         for n_players in Ns:
             all_coop, all_def = evaluate_single_short_game(
                 n_players, points, evaluate_times, gpt_version=gpt_version)
             all_coops.append(all_coop)
             all_defs.append(all_def)
     elif flag == "multiple_turn":
+        Ns = [2, 3, 4, 5, 8, 10, 15, 20, 25, 30]
         for n_players in Ns:
             all_coop, all_def = evaluate_single_long_game(
                 n_players, points, evaluate_times, gpt_version=gpt_version, rounds=10)
             all_coops.append(all_coop)
             all_defs.append(all_def)
     elif flag == "infinite_turn":
+        Ns = [2, 3, 4, 5, 8, 10, 15]
+        Ns = [15, 10, 8]
         for n_players in Ns:
             all_coop, all_def = evaluate_single_long_game(
                 n_players, points, evaluate_times, gpt_version=gpt_version, rounds=np.inf)
@@ -168,14 +171,14 @@ def evaluate_multi_players(flag="single_turn", points=[10, 8, 5, 2, 0], evaluate
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='MultiAgentHackathon')
     parser.add_argument('--gpt', default='gpt-3.5-turbo', type=str, help='version of chatgpt api')
-    parser.add_argument('--num-eval', default='50', type=int, help='number of evalations')
+    parser.add_argument('--num-eval', default='20', type=int, help='number of evalations')
     parser.add_argument('--repeated-game', default=False, action='store_true', help='if play repeated game')
     
     args = parser.parse_args()
 
     if args.repeated_game:
-        evaluate_multi_players("infinite_turn", evaluate_times=5, gpt_version=args.gpt)
+        evaluate_multi_players("infinite_turn", evaluate_times=args.num_eval, gpt_version=args.gpt)
     
     else:
-        evaluate_multi_players(evaluate_times=50, gpt_version=args.gpt)
+        evaluate_multi_players(evaluate_times=args.num_eval, gpt_version=args.gpt)
 

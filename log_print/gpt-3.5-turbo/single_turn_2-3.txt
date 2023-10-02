@@ -10,7 +10,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -30,7 +30,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -50,7 +50,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -70,7 +70,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -90,7 +90,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -110,7 +110,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -130,7 +130,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -150,7 +150,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -170,7 +170,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -190,7 +190,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -210,7 +210,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -230,7 +230,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -250,7 +250,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -272,7 +272,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -292,7 +292,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -312,7 +312,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -332,7 +332,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -352,7 +352,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -372,7 +372,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -392,7 +392,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -412,7 +412,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -432,7 +432,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -452,7 +452,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -472,7 +472,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -492,7 +492,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -512,7 +512,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -532,7 +532,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -552,7 +552,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -572,7 +572,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -592,7 +592,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -612,7 +612,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -632,7 +632,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -652,7 +652,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -672,7 +672,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -692,7 +692,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -712,7 +712,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -732,7 +732,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -752,7 +752,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -772,7 +772,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -792,7 +792,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -812,7 +812,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -832,7 +832,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -852,7 +852,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -872,7 +872,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -892,7 +892,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -912,7 +912,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -932,7 +932,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -952,7 +952,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -972,7 +972,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -992,7 +992,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1012,7 +1012,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1032,7 +1032,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1052,7 +1052,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1072,7 +1072,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1092,7 +1092,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1112,7 +1112,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1132,7 +1132,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1152,7 +1152,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1172,7 +1172,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1192,7 +1192,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1212,7 +1212,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1232,7 +1232,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1254,7 +1254,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1274,7 +1274,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1294,7 +1294,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1314,7 +1314,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1334,7 +1334,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1354,7 +1354,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1374,7 +1374,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1394,7 +1394,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1414,7 +1414,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1434,7 +1434,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1454,7 +1454,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1474,7 +1474,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1494,7 +1494,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1514,7 +1514,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1534,7 +1534,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1554,7 +1554,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1574,7 +1574,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1594,7 +1594,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1614,7 +1614,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1634,7 +1634,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1654,7 +1654,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1674,7 +1674,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1694,7 +1694,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1714,7 +1714,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1734,7 +1734,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1754,7 +1754,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1774,7 +1774,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1794,7 +1794,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1814,7 +1814,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1834,7 +1834,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1854,7 +1854,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1874,7 +1874,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1894,7 +1894,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1914,7 +1914,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1934,7 +1934,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1954,7 +1954,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1974,7 +1974,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.
@@ -1994,7 +1994,7 @@ Here is what you need to know about the game:
 - If you and all other players choose to 'defect', your payoff is 2.
 - If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is 0.
 - If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is 8.
-4. The others share the same payoff matrixs and goal with you. 
+4. The others share the same payoff matrix and goal with you. 
 
 Please consider the information above and make your action.
 Please give your action to choose, as well as the reasons.

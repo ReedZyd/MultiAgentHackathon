@@ -48,17 +48,17 @@ class LLMPlayer(Player):
         question = f"Welcome to the '{self.n_players}-person Prisoner's Dilemma' game!\n\n"
         if not num_turn[1] == 1:
             question = f"Welcome to the '{self.n_players}-person Prisoner's Dilemma' game!\n\n"
-            question += f"You are playing the game repeatly with other players.\n"
             if num_turn[1] != np.inf:
-                question += f"You will play {num_turn[1]} rounds in total with the same players.\n"
+                question += f"You are playing {num_turn[1]} rounds in total with the same players.\n"
             else:
-                question += f"You will play the game repeatly with the same player in infinite rounds.\n"
+                question += f"You are playing the game repeatly with the same player in infinite rounds.\n"
+                
             question += f"You will be asked to choose action in each round. "
             question += f"Currently, this is the {number_to_ordinal(num_turn[0])} turn.\n\n"
             question += f"You are the {self.name}.\n"
 
         question += "Here is what you need to know about the game:\n"
-        question += self.get_des_from_payoff_matrix(points) + "\n"
+        question += self.get_des_from_payoff_matrix(points, num_turn) + "\n"
 
 
         if not num_turn[1] == 1:
@@ -98,17 +98,21 @@ class LLMPlayer(Player):
                 re += "Here is the history of the players' actions and scores:\n"
             re += f"In Round {i+1}: the players chose: {action_history[i]}. The scores they got are: {score_history[i]} \n"
         return re
-    def get_des_from_payoff_matrix(self, points):
+    def get_des_from_payoff_matrix(self, points, num_turn):
         re = "1. As a player, you can choose from: 'cooperate', 'defect'.\n"
-        re += "2. Remember your goal is to maximize your own payoff. "
-        re += "You should only care about your own interests.\n"
+        if num_turn[1] == 1:
+            re += "2. Remember your goal is to maximize your own payoff. "
+        else:
+            re += "2. Remember your goal is to maximize your own accumulative discounted payoff. "
+            re += "The discounted factor is 0.9. \n"
+        re += "3. You should only care about your own interests.\n"
 
-        re += "3. Here are the payoff descriptions:\n"
+        re += "4. Here are the payoff descriptions:\n"
         re += f"- If only you choose to 'defect' while all other players choose to 'cooperate', your payoff is {points[0]}.\n"
         re += f"- If you and all other players choose to 'cooperate', your payoff is {points[2]}.\n"
         re += f"- If you and all other players choose to 'defect', your payoff is {points[3]}.\n"
         re += f"- If you choose to 'cooperate' while any of other players choose to 'defect', your payoff is {points[4]}.\n"
         re += f"- If you are one of the m (m > 1) players who choose to 'defect' and while the other n (n>0) players choose to 'cooperate', your payoff is {points[1]}.\n"
 
-        re += "4. The others share the same payoff matrixs and goal with you. \n"
+        re += "5. The others share the same payoff matrix and goal with you. \n"
         return re
